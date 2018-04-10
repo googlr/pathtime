@@ -1,2 +1,2 @@
 # pathtime
-PathTime: PATH train favors only the prepared mind.
+PathTime: :train2: PATH train favors only the prepared mind.
